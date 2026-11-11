@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Reportar una vulnerabilidad
+    url: mailto:acaparros@otazu.com
+    about: No abras una issue pública para vulnerabilidades. Escribe a acaparros@otazu.com.
+  - name: Documentación interna
+    url: https://github.com/Otazu-DTO/docs-hub
+    about: Marco de seguridad, guías de desarrollo y plantillas.
