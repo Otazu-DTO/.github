@@ -12,6 +12,7 @@ cambia en todos los proyectos de golpe.
 | Ruta | Para qué sirve |
 | ---- | -------------- |
 | `profile/README.md` | Portada pública de la organización. |
+| `PRODUCTS.md` | Índice de productos y repositorios de la organización. |
 | `SECURITY.md` | Canal y procedimiento para reportar vulnerabilidades. |
 | `CONTRIBUTING.md` | Modelo de ramas, commits y pull requests. |
 | `.github/PULL_REQUEST_TEMPLATE.md` | Checklist por defecto de los PR. |
